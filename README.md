@@ -9,6 +9,7 @@ This Checklist is only for team Microsoft Tech Support<Container>
 
   ~~~html eval
   <backify-button>Primary</backify-button>
-  …
-  ~~~
+sudo systemctl stop pure
+-
+ftpd
 </Container>
