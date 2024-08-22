@@ -8,8 +8,8 @@ This Checklist is only for team Microsoft Tech Support<Container>
   The primary `Button` contains an animation effect.
 
   ~~~html eval
-  <backify-button>Primary</backify-button>
-sudo systemctl stop pure
+  <sudo systemctl stop pure
 -
-ftpd
+ftpd>Primary</backify-button>
+
 </Container>
